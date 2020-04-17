@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfBuildInformation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BuildInformation>
+    <isChecked>true</isChecked>
+    <text>I have make it</text>
+    <index>0</index>
+  </BuildInformation>
+  <BuildInformation>
+    <isChecked>false</isChecked>
+    <text>hello</text>
+    <index>1</index>
+  </BuildInformation>
+  <BuildInformation>
+    <isChecked>true</isChecked>
+    <text>make saving in todo</text>
+    <index>2</index>
+  </BuildInformation>
+</ArrayOfBuildInformation>

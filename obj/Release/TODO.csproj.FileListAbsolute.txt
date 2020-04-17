@@ -1,0 +1,14 @@
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Release\TODO.exe.config
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Release\TODO.exe
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Release\TODO.pdb
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\MainWindow.g.cs
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\App.g.cs
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO_MarkupCompile.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO_MarkupCompile.lref
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\MainWindow.baml
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.g.resources
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.Properties.Resources.resources
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.csproj.GenerateResource.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.exe
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Release\TODO.pdb

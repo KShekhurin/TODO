@@ -1,0 +1,15 @@
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Debug\TODO.exe.config
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Debug\TODO.exe
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\bin\Debug\TODO.pdb
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.csprojAssemblyReference.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\App.g.cs
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO_MarkupCompile.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO_MarkupCompile.lref
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\MainWindow.baml
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.g.resources
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.Properties.Resources.resources
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.csproj.GenerateResource.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.exe
+C:\Users\Кирилл Шехурин\source\repos\TODO\TODO\obj\Debug\TODO.pdb
